@@ -1,2 +1,1 @@
-# TinDOg
-Only Frontend design
+TinDog Starting Files
